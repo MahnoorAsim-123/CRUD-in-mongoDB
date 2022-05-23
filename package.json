@@ -1,0 +1,17 @@
+{
+  "name": "express-js",
+  "version": "1.0.0",
+  "description": "CRUD in MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "MAHNOOR ASIM",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  }
+}
